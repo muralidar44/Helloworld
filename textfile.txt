@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 44E9-B3D7
+
+ Directory of C:\Users\Administrator\Desktop\javaproject1
+
+10/04/2019  07:27 AM    <DIR>          .
+10/04/2019  07:27 AM    <DIR>          ..
+10/03/2019  09:26 PM               170 Hello.java
+10/04/2019  07:27 AM                 0 textfile.txt
+               2 File(s)            170 bytes
+               2 Dir(s)  80,071,462,912 bytes free
